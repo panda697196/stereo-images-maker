@@ -1,2 +1,2 @@
-# stereo-images-maker
+# Stereo-images-maker
 For higher vision Assignment
